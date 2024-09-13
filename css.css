@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    color: firebrick;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+b{
+    margin-left: 15px;
+}
+hr{
+    border-style: dashed;
+}
+h3{
+    color: chocolate;
+}
